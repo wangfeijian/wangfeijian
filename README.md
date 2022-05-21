@@ -11,4 +11,4 @@
 - 📫 How to reach me: wangfeijianhao@163.com
 
 ![wangfeijian's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangfeijian&theme=blue-green&show_icons=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangfeijian&layout=compact&theme=blue-green&card_width=300px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangfeijian&layout=compact&theme=blue-green&card_width=250px)
