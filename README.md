@@ -10,4 +10,4 @@
 - 🏃‍♂️ I like running
 - 📫 How to reach me: wangfeijianhao@163.com
 
-<img height=160px src="https://github-readme-stats.vercel.app/api?username=wangfeijian&theme=buefy&show_icons=true&hide=prs"><img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangfeijian&layout=compact&theme=buefy">
+<img height=160px src="https://github-readme-stats.vercel.app/api?username=wangfeijian&theme=buefy&show_icons=true&hide=prs">  <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangfeijian&layout=compact&theme=buefy">
